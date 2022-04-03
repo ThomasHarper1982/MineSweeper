@@ -1,3 +1,0 @@
-/home/thomas/Documents/Projects/MineSweeper/build/CMakeFiles/rebuild_cache.dir
-/home/thomas/Documents/Projects/MineSweeper/build/CMakeFiles/edit_cache.dir
-/home/thomas/Documents/Projects/MineSweeper/build/CMakeFiles/MineSweeper.dir
